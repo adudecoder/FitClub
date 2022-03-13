@@ -2,7 +2,7 @@
 
 # FitClub
 
-## Site para academia
+## 💪🏋️‍♀️ Site para academia
 
 Projeto de um site para Academias, construido em:
 
